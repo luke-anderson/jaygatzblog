@@ -13,4 +13,4 @@ jobs:
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         issue-message: "Here is the JayGatzBlog message that will be displayed on users' first issue...welcome and thanks for contributing!"
-        pr-message: "Message that will be displayed on users' first pull request"
+        pr-message: "Here is the JayGatzBlog message that will be displayed on users' first PR...welcome and thanks for contributing!"
